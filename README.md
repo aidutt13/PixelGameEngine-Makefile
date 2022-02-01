@@ -1,7 +1,7 @@
 # olcPixelGameEngine template project with Makefile
 
-A template project with compiling tooling for Linux
-Default compiler is `clang++`, feel free to change it
+A template project with compiling tooling for Linux.
+Default compiler is `clang++`, feel free to change it.
 
 ### Make procedures
 - `$ make clean` - Removes all build files
